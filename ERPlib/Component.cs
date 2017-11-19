@@ -1,8 +1,8 @@
 ﻿/************************************************************************************************************
- * Title:
- * Author:
- * Date:
- * Description:
+ * Title: Component Class   
+ * Author: Sean Hinds
+ * Date: 11/18/17
+ * Description: Component class implementation for the ERPlib library
  ************************************************************************************************************/
 
 using System;

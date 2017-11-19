@@ -1,8 +1,8 @@
 ﻿/************************************************************************************************************
- * Title:
- * Author:
- * Date:
- * Description:
+ * Title: Plant Class
+ * Author: Sean Hinds
+ * Date: 11/18/17
+ * Description: Plant class implementation for the ERPlib library
  ************************************************************************************************************/
 
 using System;

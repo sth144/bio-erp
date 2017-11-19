@@ -1,8 +1,8 @@
 ﻿/************************************************************************************************************
- * Title: 
- * Author:
- * Date:
- * Description:
+ * Title: Product Class
+ * Author: Sean Hinds
+ * Date: 11/18/17
+ * Description: Product class implementation for the ERPlib library.
  ************************************************************************************************************/
 
 using System;
